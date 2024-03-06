@@ -10,7 +10,9 @@
 .c-bg-secondary {background-color: var(--pewter-blue);}
 .c-bg-primary {background-color: var(--#01204C);}
 .c-bg-black {background-color: var(--outer-space-crayola);}
-
+html {
+    overflow-y: auto;
+    }
 nav {
     background-color: #0f112c;
     padding: 30px;
